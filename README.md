@@ -27,6 +27,6 @@ Neste desafio, vou mostrar todo conhecimento adquirido através do curso de Git 
     - Alterado o status de todos os arquivos no repositório para Staged
     - Verificado o status do repositório após a alteração do status de todos os arquivos
 
--Print 4
+- Print 4
     - Feito o commit dos arquivos
     - Feito o envio para o repositório remoto/Github
